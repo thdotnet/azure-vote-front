@@ -14,7 +14,7 @@ redis:
     enabled: false
 
 image:
-  repository: myhelmacrjm.azurecr.io/azure-vote-front
+  repository: thdotnetaksdemoregistry.azurecr.io/azure-vote-front
   pullPolicy: IfNotPresent
   tag: "v1"
 
